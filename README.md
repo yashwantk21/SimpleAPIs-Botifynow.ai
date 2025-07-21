@@ -1,4 +1,5 @@
 # Simple AI APIs - Yashwant Harisingh Karnawat
+This is an AI-powered document chatbot built with FastAPI and React. Users can upload .pdf or .txt files and interact with their content using Retrieval-Augmented Generation (RAG), powered by Qdrant for vector search and OpenAI’s GPT-4o-mini for responses. Embeddings are generated using OpenAI’s text-embedding-3-small model.
 
 ## How it works:
 
